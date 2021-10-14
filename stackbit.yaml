@@ -282,7 +282,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Title1
         description: The title of the page
         required: true
       - type: list
