@@ -34,7 +34,7 @@ export default class HeroSection extends React.Component {
         const actions = _.get(section, 'actions');
         const hasBackground = _.get(section, 'has_background');
         const background = _.get(section, 'background');
-        const backgroundColor = '#ffffff';
+        const backgroundColor = '#000000';
         const backgroundImage = _.get(background, 'background_image');
 
         return (
